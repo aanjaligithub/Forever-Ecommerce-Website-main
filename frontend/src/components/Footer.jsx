@@ -7,7 +7,8 @@ const Footer = () => {
         <div className='flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10 mt-40 text-sm'>
            <div>
              <img src={assets.logo} className='mb-5 w-32' alt=''/>
-             <p className='w-full md:w-2/3 text-gray-600'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus exercitationem, accusamus rerum voluptatum nisi aspernatur nihil ut quod, ea repellendus deleniti expedita libero. Itaque porro sed ipsum totam perspiciatis! Sint asperiores delectus cumque repellat eos!</p>
+             <p className='w-full md:w-2/3 text-gray-600'>At Forever, we’re dedicated to offering high-quality products at affordable prices. We focus on smooth shopping, secure payments, and fast delivery for a seamless customer experience.
+Discover fashion, lifestyle, and essentials – all in one trusted place.</p>
            </div>
            <div>
               <p className='text-xl font-medium mb-5'>COMPANY</p>
