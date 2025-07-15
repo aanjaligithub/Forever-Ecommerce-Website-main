@@ -44,7 +44,7 @@ const Navbar = () => {
                 <p>CONTACT</p>
                 <hr className='w-2/4 border-none h-[1.5px] bg-gray-700 hidden' /> {/* create an underline below the text */}
             </NavLink>
-            <a href="https://forever-ecommerce-website-main-admin.onrender.com" target="_blank" class="border px-5 text-xs py-1 rounded-full -mt-2">
+            <a href="https://forever-admin-swmo.onrender.com/" target="_blank" class="border px-5 text-xs py-1 rounded-full -mt-2">
                <p class="mt-1">Admin Panel</p>
             </a>
             
